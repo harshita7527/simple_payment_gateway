@@ -2,6 +2,6 @@
 
 Project developed during Internship at The Sparks Foundation (#task3)
 
-Simple website where payment gateway is integrated from Rajorpay. There is a simple donate button which loads the payment page where the user can select amount to be paid and the payment type. Once payment is done an invoice will be generated and email will be sent to the donar. 
+Simple website where payment gateway is integrated from Razorpay. There is a simple donate button that loads the payment page where the user can select the amount to be paid and the payment type. Once payment is done an invoice will be generated and an email will be sent to the donor.
 
-Built using : HTML, CSS, Bootstrap and Javascript
+Built using: HTML, CSS, Bootstrap, and Javascript
